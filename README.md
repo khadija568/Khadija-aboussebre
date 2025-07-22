@@ -12,6 +12,10 @@
 
 ###
 
+<p align="left">🧑‍💻 About Me</p>
+<p align="left">I'm a passionate full stack developer who enjoys building fast, scalable web applications using modern technologies. Whether it's developing APIs with Node.js or creating interactive frontends with React, I love the entire process of solving problems through code.</p>
+
+###
 <p align="left">I Code with</p>
 
 ###
@@ -38,14 +42,18 @@
 
 ###
 
-<p align="left">Quote I Like</p>
+<p align="left">💬 Quote I Like</p>
 <p align="left">“First, solve the problem. Then, write the code.” – John Johnson</p>
 
 ###
 
+<p align="left">🔗 Connect with Me</p>
 <div align="center">
   <a href="https://www.linkedin.com/in/khadija-aboussebre/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="khadija.aboussebre14@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
